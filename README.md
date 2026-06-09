@@ -1,0 +1,1 @@
+# Gerenciador-de-Tabela-de-Simbolos
