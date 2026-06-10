@@ -103,14 +103,14 @@ Saída esperada:
 Variável 'x' declarada como 'int'.
 Variável 'nome' declarada como 'string'.
 
->>> Novo escopo criado.
+>Novo escopo criado.
 
 Variável 'y' declarada como 'float'.
 
 'x' encontrada com tipo 'int'.
 'y' encontrada com tipo 'float'.
 
->>> Escopo removido.
+>Escopo removido.
 
 Exemplo:
 ```
